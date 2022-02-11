@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kupons-public/static/css/main.e45bc497.css",
+    "main.js": "/kupons-public/static/js/main.018ff73d.js",
+    "index.html": "/kupons-public/index.html",
+    "main.e45bc497.css.map": "/kupons-public/static/css/main.e45bc497.css.map",
+    "main.018ff73d.js.map": "/kupons-public/static/js/main.018ff73d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45bc497.css",
+    "static/js/main.018ff73d.js"
+  ]
+}
