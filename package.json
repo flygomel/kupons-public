@@ -1,0 +1,14 @@
+{
+  "name": "kupons-public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:flygomel/kupons-public.git",
+  "author": "Tony",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
