@@ -1,8 +1,8 @@
 {
-  "name": "market-test-public",
+  "name": "kupons-public",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:flygomel/market-test-public.git",
+  "repository": "git@github.com:flygomel/kupons-public.git",
   "author": "Tony",
   "license": "MIT",
   "devDependencies": {
