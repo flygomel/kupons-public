@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/kupons-public/static/css/main.50ebfc7a.css",
-    "main.js": "/kupons-public/static/js/main.3deaefdf.js",
+    "app.js": "/kupons-public/static/js/app.d653623f.chunk.js",
+    "app.js.map": "/kupons-public/static/js/app.d653623f.chunk.js.map",
+    "runtime~app.js": "/kupons-public/static/js/runtime~app.94458792.js",
+    "runtime~app.js.map": "/kupons-public/static/js/runtime~app.94458792.js.map",
+    "static/js/2.e0b10f04.chunk.js": "/kupons-public/static/js/2.e0b10f04.chunk.js",
+    "static/js/2.e0b10f04.chunk.js.map": "/kupons-public/static/js/2.e0b10f04.chunk.js.map",
     "index.html": "/kupons-public/index.html",
-    "main.50ebfc7a.css.map": "/kupons-public/static/css/main.50ebfc7a.css.map",
-    "main.3deaefdf.js.map": "/kupons-public/static/js/main.3deaefdf.js.map"
+    "manifest.json": "/kupons-public/manifest.json",
+    "serve.json": "/kupons-public/serve.json",
+    "static/js/2.e0b10f04.chunk.js.LICENSE.txt": "/kupons-public/static/js/2.e0b10f04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.50ebfc7a.css",
-    "static/js/main.3deaefdf.js"
+    "static/js/runtime~app.94458792.js",
+    "static/js/2.e0b10f04.chunk.js",
+    "static/js/app.d653623f.chunk.js"
   ]
 }
